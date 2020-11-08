@@ -1,7 +1,7 @@
 
 # Hi 👋, my name is Ellen
 
-![ellen](img/ellen_smile.jpg)
+![ellen](img/ellen_smile-min.jpg)
 
 
 # currently working on:  
