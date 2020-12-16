@@ -15,9 +15,13 @@ Our goal is to implement a path planning algorithm to steer the drone through an
 
 
 
+
+
 ### Perception for intelligent vehicles
 
 LIDAR sensor fusion kickoff is next week. Before that I worked on implementing a Lalman filter to track and predict the movements of pedestrians. Additionally we work on using a particle filter to localize a robot in a known map.
+
+
 
 
 
@@ -36,6 +40,8 @@ Worked together on this project with Wesley who made a post about our success:
 
 
 
+
+
 ### Meta learning deep learning reproduction project
 
 > Humans are adept at solving tasks under many different conditions. This is partly due to fast adaptation, but also due to a lifetime of encountering new task conditions. This provides the opportunity to develop strategies, which are robust to different task contexts.
@@ -48,6 +54,8 @@ We wrote a blogpost detailing our reproduction efforts.
 
 
 
+
+
 ### Stabilizing a double pendulum 
 
  Learned to apply several different control strategies to stabilize a double  pendulum in various positions on a physical setup.
@@ -55,6 +63,8 @@ We wrote a blogpost detailing our reproduction efforts.
 <iframe width="560" height="400" src="https://www.youtube.com/embed/qcokfeDFilA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (credits: not my video, but same setup)
+
+
 
 
 
