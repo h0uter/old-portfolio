@@ -7,6 +7,8 @@ Hi thanks for visiting! This is currently a work in progress. Below I've listed 
 
 ## Current projects 
 
+---
+
 ### Quadrotor motion planning
 
 Our goal is to implement a path planning algorithm to steer the drone through an obstacle course. I'm currently working on the drone controller.
@@ -21,12 +23,16 @@ LIDAR sensor fusion kickoff is next week. Before that I worked on implementing a
 
 ## Previous projects 
 
+---
+
 ### Machine learning for pen pose estimation
 Train classical and Deep Learning methods for the purpose of picking up cutlery with a small robot.
 
 Worked together on this project with Wesley who made a post about our success:
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6737753292039872512" height="600" width="804" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 
 
 
