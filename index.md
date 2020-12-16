@@ -25,7 +25,7 @@ LIDAR sensor fusion kickoff is next week. Before that I worked on implementing a
 
 ---
 
-### Machine learning for pen pose estimation
+### Machine learning for pose estimation
 Train classical and Deep Learning methods for the purpose of picking up cutlery with a small robot.
 
 Worked together on this project with Wesley who made a post about our success:
@@ -52,7 +52,7 @@ We wrote a blogpost detailing our reproduction efforts.
 
  Learned to apply several different control strategies to stabilize a double  pendulum in various positions on a physical setup.
 
-<iframe width="560" height="600" src="https://www.youtube.com/embed/qcokfeDFilA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="400" src="https://www.youtube.com/embed/qcokfeDFilA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (credits: not my video, but same setup)
 
