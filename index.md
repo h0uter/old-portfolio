@@ -16,6 +16,8 @@ Our goal is to implement a path planning algorithm to steer the drone through an
 
 
 
+<br />
+<br />
 
 ### Perception for intelligent vehicles
 
@@ -24,6 +26,8 @@ LIDAR sensor fusion kickoff is next week. Before that I worked on implementing a
 
 
 
+<br />
+<br />
 
 ## Previous projects 
 
@@ -41,6 +45,8 @@ Worked together on this project with Wesley who made a post about our success:
 
 
 
+<br />
+<br />
 
 ### Meta learning deep learning reproduction project
 
@@ -54,7 +60,8 @@ We wrote a blogpost detailing our reproduction efforts.
 
 
 
-
+<br />
+<br />
 
 ### Stabilizing a double pendulum 
 
@@ -66,7 +73,8 @@ We wrote a blogpost detailing our reproduction efforts.
 
 
 
-
+<br />
+<br />
 
 ### pcl and OpenCV implementation in ROS
 
