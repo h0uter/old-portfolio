@@ -11,7 +11,7 @@ Hi thanks for visiting! This is currently a work in progress. Below I've listed 
 
 ### Quadrotor motion planning
 
-We implemented several path planning algorithms to steer a drone through an obstacle course. I mainly worked on the drone controller.
+We built a simulation from scratch and implemented several path planning algorithms to find a path through an obstacle course. Then we simulated a quadrotor drone to execute this trajectory.
 
 [PDM Project](https://github.com/h0uter/PDM-project)
 ![PDM Preview](img/PDM_preview.gif)
@@ -21,7 +21,7 @@ We implemented several path planning algorithms to steer a drone through an obst
 <br />
 <br />
 
-### Perception for intelligent vehicles
+### Machine Perception for intelligent vehicles
 
 Currently working on LIDAR and stereo camera data fusion. Before that I worked on implementing a Kalman filter to track and predict the movements of pedestrians. Additionally we work on using a particle filter to localize a robot in a known map.
 
