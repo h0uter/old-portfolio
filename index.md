@@ -11,8 +11,10 @@ Hi thanks for visiting! This is currently a work in progress. Below I've listed 
 
 ### Quadrotor motion planning
 
-Our goal is to implement a path planning algorithm to steer the drone through an obstacle course. I'm currently working on the drone controller.
+We implemented several path planning algorithms to steer a drone through an obstacle course. I mainly worked on the drone controller.
 
+[PDM Project](https://github.com/h0uter/PDM-project)
+![PDM Preview](img/PDM_preview.gif)
 
 
 
@@ -21,7 +23,7 @@ Our goal is to implement a path planning algorithm to steer the drone through an
 
 ### Perception for intelligent vehicles
 
-LIDAR sensor fusion kickoff is next week. Before that I worked on implementing a Lalman filter to track and predict the movements of pedestrians. Additionally we work on using a particle filter to localize a robot in a known map.
+Currently working on LIDAR and stereo camera data fusion. Before that I worked on implementing a Kalman filter to track and predict the movements of pedestrians. Additionally we work on using a particle filter to localize a robot in a known map.
 
 
 
