@@ -1,6 +1,6 @@
 ---
 title: "Dikke Nacho's"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nacho.jpg'>"
+excerpt: "Participated in high stakes Nacho workshop<br/><img src='/images/nacho.jpg'>"
 collection: portfolio
 ---
 
