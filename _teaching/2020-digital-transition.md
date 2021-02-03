@@ -1,5 +1,5 @@
 ---
-title: " Adapting on-campus courses for virtual learning"
+title: "Adapting on-campus courses for virtual learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-digital-transition
