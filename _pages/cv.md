@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# just add photo of cv here
+just add photo of cv here
 
 
 <!-- Education
@@ -51,6 +51,7 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -59,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Head instructer Struer emergency excercise group
+* Head instructer Struer emergency excercise gym group
