@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ellen Riemens / About me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ellen Riemens"
 description              : &description "MSc. student Signals & Systems writing her Thesis @ Bang&Olufsen"
