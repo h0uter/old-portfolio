@@ -59,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Head instructer Struer Emergency excercise group
+* Head instructer Struer emergency excercise group
