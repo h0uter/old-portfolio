@@ -1,6 +1,6 @@
 ---
 title: 'Why deadlifting is life'
-date: 2012-08-14
+date: 2021-02-03
 permalink: /posts/2020/02/2why-i-love-deadlifting/
 tags:
   - cool posts
