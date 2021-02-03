@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : false # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : *name
   avatar           : "ln.jpg"
   bio              :  *description # "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Struer, Denmark"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/ellen-riemens-913346195
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
