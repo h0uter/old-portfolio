@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ellen Riemens / About me"
 title_separator          : "-"
 name                     : &name "Ellen Riemens"
-description              : &description "MSc. student Signals & Systems"
+description              : &description "MSc. student Signals & Systems writing her Thesis @ Bang&Olufsen"
 url                      : https://h0uter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "h0uter/h0uter.github.io"
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-minimal_mistakes_skin: "aqua"
+# minimal_mistakes_skin: "aqua"
