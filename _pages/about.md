@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋 Welcome to my portfolio. Its a WIP
+Hi👋 Welcome to my academic site. Its a WIP
