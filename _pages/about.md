@@ -18,4 +18,4 @@ My current research focus is room geometry detection using a combination of Acou
 
 My General research interest include sensing and imaging with all modalities excluding radar.
 
-Next to my studies I'm a hardcore gamer girl🕹.
+Next to my studies I'm a hardcore gamer girl🕹 and gym dog🤸‍♀️.
