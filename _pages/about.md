@@ -9,3 +9,13 @@ redirect_from:
 ---
 
 Hi👋 Welcome to my academic site. Its a WIP
+
+I live by the words: "time waits for noone"
+
+I am currently a MSc. student Signals and systems working on my Thesis at Bang&Olufsun in Denmark. I am being supervised 
+
+My current research focus is room geometry detection using a combination of Acoustics and LiDAR.
+
+My General research interest include sensing and imaging with all modalities excluding radar.
+
+Next to my studies I'm a hardcore gamer girl🕹.
