@@ -59,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head instructer Struer Emergency excercise group
