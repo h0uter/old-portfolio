@@ -3,7 +3,7 @@ title: "Adapting on-campus courses for virtual learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-digital-transition
-venue: "TU Delft 1, EEMCS"
+venue: "TU Delft, EEMCS"
 date: 2020-04-01
 location: "Delft, Netherlands"
 ---
