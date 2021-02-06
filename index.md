@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome"
 layout: home
 image: /assets/images/smile-min.jpg
 ---
