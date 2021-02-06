@@ -35,5 +35,7 @@ google_fonts:
 
 navigation_pages:
   - test.md
+  - projects.md
   - about.md
   - cv.md
+
