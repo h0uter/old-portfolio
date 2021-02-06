@@ -1,7 +1,8 @@
 ---
 title: "Welcome"
-layout: about
+layout: home
 image: /assets/images/smile-min.jpg
+entries_layout: grid
 ---
 
 hi this is the index.md file
