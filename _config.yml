@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Portfolio Wouter Meijer
+title: Wouter Meijer
 email: w.j.meijer@student.tudelft.nl
 description: MSc. Robotics student interested in cognition.
 baseurl: # the optional subpath of your site, e.g. "/blog"
