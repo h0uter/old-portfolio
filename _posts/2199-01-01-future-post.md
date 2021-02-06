@@ -2,6 +2,7 @@
 title: 'Future Blog Post'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 tags:
   - cool posts
   - category1
