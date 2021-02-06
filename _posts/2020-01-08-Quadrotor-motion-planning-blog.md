@@ -2,6 +2,10 @@
 title: 'Quadrotor motion planning'
 date: 2020-01-08
 permalink: /posts/2020/01/Quadrotor-motion-planning-blog/
+image: 
+  path: /images/profile_square.jpg
+  thumbnail: /images/profile_square (400x200).jpg
+  caption: "test"
 tags:
   - motion_planning
   - Python
