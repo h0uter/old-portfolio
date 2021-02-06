@@ -1,6 +1,8 @@
 ---
 title: 'Quadrotor motion planning'
 date: 2020-01-08
+categories:
+  - test
 # permalink: /posts/2020/01/Quadrotor-motion-planning-blog/
 tags:
   - motion_planning
