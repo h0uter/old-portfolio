@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/files/Mendible_CV-1.png" alt="" style="width:850px;">
+[Download my CV here](http://h0uter.github.io/files/CV_2021_-_Wouter_Meijer.pdf)
+
+
+<!-- <img src="/files/Mendible_CV-1.png" alt="" style="width:850px;">
 <img src="/files/Mendible_CV-2.png" alt="" style="width:850px;">
-<img src="/files/Mendible_CV-3.png" alt="" style="width:850px;">
+<img src="/files/Mendible_CV-3.png" alt="" style="width:850px;"> -->
 
 <!--- Research Interests
 ======
