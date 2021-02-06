@@ -1,6 +1,9 @@
 ---
 title: "About"
 layout: about
+author:
+  name: Wouter Meijer
+  picture: /assets/images/profile_square.jpg
 image: /assets/images/smile-min.jpg
 ---
 
