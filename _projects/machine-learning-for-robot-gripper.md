@@ -5,6 +5,7 @@ date: 2020-10-25
 tags:
   - machine_learning
   - MSc_Robotics
+  - Python
 image: 
   path: /assets/images/profile_square.jpg
   thumbnail: /assets/images/profile_square(400x200).jpg

@@ -4,7 +4,12 @@ date: 2020-01-08
 permalink: /posts/2020/01/Quadrotor-motion-planning-blog/
 tags:
   - motion_planning
+  - MSc_Robotics
   - Python
+image: 
+  path: /assets/images/profile_square.jpg
+  thumbnail: /assets/images/profile_square(400x200).jpg
+  caption: "test"
 ---
 
 We built a simulation from scratch and implemented several path planning algorithms to find a path through an obstacle course. Then we simulated a quadrotor drone to execute this trajectory.
