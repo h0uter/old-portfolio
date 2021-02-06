@@ -89,7 +89,7 @@ author:
   name             : *name
   avatar           : "profile_square.jpg"
   bio              : *description
-  location         : "Seattle, WA"
+  location         : "Delft"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=jfxIA7kAAAAJ&hl=en&oi=ao"
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"arianamendible"
+  linkedin         : "wouterjmeijer"
   orcid            : #"https://orcid.org/0000-0001-7820-3658"
   pinterest        :
   soundcloud       :
