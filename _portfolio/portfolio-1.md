@@ -1,6 +1,6 @@
 ---
-title: "Dikke Nacho's"
-excerpt: "Winner of high stakes Nacho workshop<br/><img src='/images/nacho-resize.jpg'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

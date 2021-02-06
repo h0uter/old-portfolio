@@ -5,16 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#plugins:
+#  - jekyll-remote-theme
+#remote_theme           : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ellen Riemens"
-description              : &description "MSc. student Signals & Systems graduating @ Bang&Olufsen"
-url                      : https://h0uter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ariana Mendible"
+description              : &description "5th year PhD student in Mechanical Engineering at the University of Washington"
+url                      : https://mendible.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "h0uter/h0uter.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "mendible/mendible.github.io"
+teaser                   : '500x300.png' # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -29,7 +35,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,14 +86,14 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
-  avatar           : "ln.jpg"
-  bio              :  *description # "Your biography for the left-hand sidebar"
-  location         : "Struer, Denmark"
+  name             : "Ariana Mendible"
+  avatar           : "profile_square.png"
+  bio              : "PhD candidate in Mechanical Engineering at the University of Washington"
+  location         : "Seattle, WA"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=jfxIA7kAAAAJ&hl=en&oi=ao"
+  email            :  "mendible@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +102,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ellenriemens"
+  github           : "mendible"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/ellen-riemens-913346195
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "arianamendible"
+  orcid            : "https://orcid.org/0000-0001-7820-3658"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -309,5 +315,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# minimal_mistakes_skin: "aqua"
