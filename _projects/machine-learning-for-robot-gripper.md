@@ -1,11 +1,16 @@
 ---
 title: 'Machine learning for robot gripper'
 date: 2020-10-25
-permalink: /posts/2020/10/Machine-learning-for-robot-gripper/
+# permalink: /posts/2020/10/Machine-learning-for-robot-gripper/
 tags:
   - machine_learning
   - MSc_Robotics
+image: 
+  path: /assets/images/profile_square.jpg
+  thumbnail: /assets/images/profile_square(400x200).jpg
+  caption: "test"
 ---
+
 
 Train classical and Deep Learning methods for the purpose of picking up cutlery with a small robot.
 To this end we setup a complete machine learning pipeline.
