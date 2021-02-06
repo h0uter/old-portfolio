@@ -3,7 +3,7 @@ title: "About"
 layout: about
 author:
   name: Wouter Meijer
-  picture: /assets/images/profile_square.jpg
+  picture: /assets/images/profile_square(400x200).jpg
 image: /assets/images/smile-min.jpg
 ---
 
