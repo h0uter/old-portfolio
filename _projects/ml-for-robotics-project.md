@@ -7,8 +7,8 @@ tags:
   - MSc_Robotics
   - Python
 image: 
-  path: /assets/images/profile_square.jpg
-  thumbnail: /assets/images/profile_square(400x200).jpg
+  path: /assets/images/ml_knife.jpg
+  thumbnail: /assets/images/ml_knife.jpg
   caption: "test"
 ---
 
