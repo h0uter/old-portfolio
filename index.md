@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: home
+layout: about
 image: /assets/images/smile-min.jpg
 ---
 
