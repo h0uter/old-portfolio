@@ -7,4 +7,4 @@ actions:
     url: "/assets/CV-Wouter-Meijer.pdf"
 ---
 
-send me a message and I'll be happy to share my resume
+With the button above you can download my CV
