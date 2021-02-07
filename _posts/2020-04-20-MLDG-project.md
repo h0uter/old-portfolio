@@ -13,20 +13,8 @@ actions:
   - label: "Show me the code!"
     icon: github  # references name of svg icon, see full list below
     url: "https://github.com/h0uter/MLDG"
-  # - label: "execute the code"
-  #   icon: arrow-right  # references name of svg icon, see full list below
-  #   url: "https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0"
+
 ---
-
-
-
-# Blogpost DL meta learning
-
-Bob [[Github](https://github.com/Bobr4y)]
-
-Wouter [[Github](https://github.com/h0uter)]
-
-Mats [[Github](https://github.com/1997rijkeboer)]
 
 # Introduction
 ---
@@ -36,6 +24,10 @@ Humans are adept at solving tasks under many different conditions. This is partl
 We would like artificial learning agents to do the same because this would make them much more versatile and perform better 'out-the-box'.
 
 This paper proposes a novel meta learning approach for domain generalisation rather than proposing a specific model suited for DG. 
+
+
+Bob [[Github](https://github.com/Bobr4y)] | Wouter [[Github](https://github.com/h0uter)] | Mats [[Github](https://github.com/1997rijkeboer)]
+
 
 # MLDG Algorithm
 
