@@ -7,7 +7,7 @@ tags:
   - MSc. Robotics
   - Python
 image: 
-  path: /assets/images/ml_knife.png
+  path: /assets/images/ml_knife_wide.png
   thumbnail: /assets/images/ml_knife.png
   caption: "test"
 actions:
@@ -21,7 +21,7 @@ actions:
 
 The goal of this project was to employ machine learning for the purpose of picking up cutlery with a small robot.
 To this end a machine learning pipeline had to be setup from start to finish.
-The general ML pipeline looks like this:
+The general ML pipeline looks something like this:
 
 1. **Overview**
   - make a plan
