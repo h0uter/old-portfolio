@@ -54,7 +54,7 @@ The general ML pipeline looks like this:
 	-  ensure results are reproducible
 8. **Launch, monitor and maintain your system**
 
-
+So we went though the pipeline for the challenge at hand and our results can be seen in the published notebook.
 
 
 Additionaly, you can execute our code yourself on [Deepnote](https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0)
