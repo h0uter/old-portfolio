@@ -4,7 +4,7 @@ categories:
 tags:
   - machine learning
 image: 
-  path: /assets/images/MLDG_orig.png
+  path: /assets/images/MLDG.png
   thumbnail: /assets/images/MLDG.png
   caption: "test"
 actions:
