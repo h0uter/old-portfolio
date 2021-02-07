@@ -7,7 +7,7 @@ tags:
   - MSc. Robotics
   - Python
 image: 
-  path: /assets/images/ml_knife_wide.png
+  path: /assets/images/ml_knife_wide.jpg
   thumbnail: /assets/images/ml_knife.png
   caption: "test"
 actions:
