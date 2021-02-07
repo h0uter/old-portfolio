@@ -60,4 +60,4 @@ Additionaly, you can execute our code yourself on [Deepnote](https://deepnote.co
 
 Worked together on this project with Wesley who made a post about our success:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6737753292039872512" height="600" width="704" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6737753292039872512" height="900" width="704" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
