@@ -1,9 +1,7 @@
 ---
 title: Projects
-layout: collection
+layout: category
 permalink: /projects/
-collection: projects
-entries_layout: grid
+taxonomy: projects # category name
+entries_layout: grid # list (default), grid
 ---
-
-Sample document listing for the collection `_projects`.

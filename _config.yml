@@ -75,11 +75,11 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 
@@ -92,10 +92,10 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _projects
-  - scope:
-      path: "_projects"
-      type: projects
-    values:
-      layout: post
-      read_time: true
+  # # _projects
+  # - scope:
+  #     path: "_projects"
+  #     type: projects
+  #   values:
+  #     layout: post
+  #     read_time: true
