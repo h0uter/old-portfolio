@@ -28,8 +28,7 @@ The general ML pipeline looks like this:
 2. **get the data**
 	- representiveness
 	- need to annotate
-	- use simulation to obtain data (really well suited for [[reinforcement learning]])
-	- [[supervised learning| self supervised]] techniques on the rise
+	- use simulation to obtain data (really well suited for reinforcement learning)
 3. **Inspect Data, gain insights**
 	- GOAL: develop intuition
 	- find outliers
@@ -40,13 +39,13 @@ The general ML pipeline looks like this:
 	- Feature selection/ feature engineering
 	- what do the measurements represent
 	- data compression
-		- which [[variance]] is informative
-		- which [[variance]] can be removed
+		- which variance is informative
+		- which variance can be removed
 	- data transforms to deal with:
 		- missing values
 5. **Explore different models**
 	- for robotics fast inference required as part of control loop
-	- [[training]] time not very important
+	- training time more forgiving
 	- "more data vs. better model" ROI consideration
 6. **Fine tune your model**
 	- Optimise hyperparameters

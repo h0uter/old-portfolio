@@ -19,5 +19,5 @@ For this project the pointcloud data of a lidar was fused with the pointclouds o
 in this image you see the 2 distinct pointclouds. In green the LiDAR pointcloud and in grey (actually RGB) the stereo camera pointcloud.
 
 
-![demo vid](/assets/demo/MP_grid_vid.gif)
+![demo vid](/assets/images/MP_grid_vid.gif)
 In this video you can see the occupancy grid which was constructed from the pointcloud data.
