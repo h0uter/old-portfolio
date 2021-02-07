@@ -14,6 +14,9 @@ actions:
   - label: "Show me the code!"
     icon: github  # references name of svg icon, see full list below
     url: "https://github.com/h0uter/PDM-project"
+  - label: "Show me the paper!"
+    icon: right-arrow # references name of svg icon, see full list below
+    url: "/assets/quad-rotor_routing_RRT.pdf"
 
 ---
 
