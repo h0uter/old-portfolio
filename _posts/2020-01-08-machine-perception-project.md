@@ -5,8 +5,8 @@ title: 'LiDAR sensor data fusion'
 categories:
   - projects
 tags:
-  - sensor_fusion
-  - MSc_Robotics
+  - sensor fusion
+  - MSc. Robotics
   - Python
 image: 
   path: /assets/images/MP_grid_vid.gif

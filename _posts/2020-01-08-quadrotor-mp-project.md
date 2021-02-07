@@ -5,8 +5,8 @@ title: 'Quadrotor motion planning'
 categories:
   - projects
 tags:
-  - motion_planning
-  - MSc_Robotics
+  - motion planning
+  - MSc. Robotics
   - Python
 image: 
   path: /assets/images/PDM_preview.gif

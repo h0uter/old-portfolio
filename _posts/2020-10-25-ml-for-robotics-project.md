@@ -5,8 +5,8 @@ title: 'Machine learning for robot gripper'
 categories:
   - projects
 tags:
-  - machine_learning
-  - MSc_Robotics
+  - machine learning
+  - MSc. Robotics
   - Python
 image: 
   path: /assets/images/ml_knife.png
