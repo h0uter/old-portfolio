@@ -1,7 +1,5 @@
 ---
 title: 'Machine learning for robot gripper'
-# date: 2020-10-25
-# permalink: /posts/2020/10/Machine-learning-for-robot-gripper/
 categories:
   - projects
 tags:
