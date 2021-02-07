@@ -4,7 +4,7 @@ categories:
   - projects
 tags:
   - machine learning
-  - MSc. Robotics
+  # - MSc. Robotics
   - Python
 image: 
   path: /assets/images/ml_knife_wide.jpg

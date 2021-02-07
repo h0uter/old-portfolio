@@ -1,8 +1,10 @@
 ---
 title: 'Meta Learning for Domain Generalisation'
 categories:
+  - projects
 tags:
   - machine learning
+  - deep learning
 image: 
   path: /assets/images/MLDG_wide.jpg
   thumbnail: /assets/images/MLDG.png

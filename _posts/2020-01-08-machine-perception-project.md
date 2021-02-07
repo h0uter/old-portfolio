@@ -4,7 +4,8 @@ categories:
   - projects
 tags:
   - sensor fusion
-  - MSc. Robotics
+  # - MSc. Robotics
+  - LiDAR
   - Python
 image: 
   path: /assets/images/MP_grid_vid.gif

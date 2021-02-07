@@ -4,7 +4,7 @@ categories:
   - projects
 tags:
   - motion planning
-  - MSc. Robotics
+  # - MSc. Robotics
   - Python
 image: 
   path: /assets/images/PDM_preview.gif
@@ -15,7 +15,7 @@ actions:
     icon: github  # references name of svg icon, see full list below
     url: "https://github.com/h0uter/PDM-project"
   - label: "Show me the paper!"
-    icon: right-arrow # references name of svg icon, see full list below
+    icon: arrow-right # references name of svg icon, see full list below
     url: "/assets/quad-rotor_routing_RRT.pdf"
 
 ---
