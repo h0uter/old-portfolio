@@ -15,7 +15,7 @@ actions:
 ---
 
 
-Me and my brother share our grandmas old car, it's a beautiful Renault Megaine from 1998. However we wanted to listen to our own music, unfortunately the car only supported radio or cassette. So a new projects was conceived.
+Me and my brother share our grandmas old car, it's a beautiful Renault Mégane 2.0 from 1998. However we wanted to listen to our own music, unfortunately the car only supported radio or cassette. So a new projects was conceived.
 
 
 ![](/assets/images/car-aux-wires.jpg)
