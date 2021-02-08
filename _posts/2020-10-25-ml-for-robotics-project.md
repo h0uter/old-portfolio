@@ -20,8 +20,9 @@ actions:
 ---
 
 The goal of this project was to employ machine learning for the purpose of picking up cutlery with a small robot.
-To this end a machine learning pipeline had to be setup from start to finish.
-The general ML pipeline looks something like this:
+To this end a machine learning pipeline had to be built from the ground up.
+
+The general ML cookbook looks something like this:
 
 1. **Overview**
   - make a plan
