@@ -13,18 +13,21 @@ image:
   thumbnail: /assets/images/MLDG.png
   caption: "test"
 actions:
-  - label: "Show me the code!"
+  - label: "Our reproduction"
     icon: github  # references name of svg icon, see full list below
     url: "https://github.com/h0uter/MLDG"
+  - label: "Original paper"
+    icon: pdf  # references name of svg icon, see full list below
+    url: "https://arxiv.org/pdf/1710.03463.pdf"
 
 ---
 
 # Introduction
 ---
 
-Humans are adept at solving tasks under many different conditions. This is partly due to fast adaptation, but also due to a lifetime of encountering new task conditions. This provides the opportunity to develop strategies, which are robust to different task contexts. 
+>Humans are adept at solving tasks under many different conditions. This is partly due to fast adaptation, but also due to a lifetime of encountering new task conditions. This provides the opportunity to develop strategies, which are robust to different task contexts. 
 
-We would like artificial learning agents to do the same because this would make them much more versatile and perform better 'out-the-box'.
+>We would like artificial learning agents to do the same because this would make them much more versatile and perform better 'out-the-box'.
 
 This paper proposes a novel meta learning approach for domain generalisation rather than proposing a specific model suited for DG. 
 

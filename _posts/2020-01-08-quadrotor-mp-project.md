@@ -11,8 +11,8 @@ image:
   thumbnail: /assets/images/PDM_preview.gif
   caption: "test"
 actions:
-  - label: "Show me the paper!"
-    icon: arrow-right # references name of svg icon, see full list below
+  - label: "Our paper"
+    icon: pdf # references name of svg icon, see full list below
     url: "/assets/quad-rotor_routing_RRT.pdf"
   - label: "Show me the code!"
     icon: github  # references name of svg icon, see full list below
