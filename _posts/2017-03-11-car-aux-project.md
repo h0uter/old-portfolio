@@ -9,7 +9,7 @@ image:
   thumbnail: /assets/images/car-aux-pcb_thumb.jpg
   caption: "test"
 actions:
-  - label: "Download the casette manual"
+  - label: "Download the car radio manual"
     icon: pdf # references name of svg icon, see full list below
     url: "/assets/pioneer_keh-2700_2730r_SM.pdf"
 ---
