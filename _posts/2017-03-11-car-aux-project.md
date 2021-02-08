@@ -1,5 +1,5 @@
 ---
-title: 'Adding AUX to the cassette player in classic car'
+title: 'Upgrading the cassette player in my old car with AUX'
 categories:
   - projects
 tags:
@@ -8,14 +8,18 @@ image:
   path: /assets/images/car-aux-pcb.jpg
   thumbnail: /assets/images/car-aux-pcb_thumb.jpg
   caption: "test"
+actions:
+  - label: "Download the casette manual"
+    icon: pdf # references name of svg icon, see full list below
+    url: "/assets/pioneer_keh-2700_2730r_SM.pdf"
 ---
 
 
-Me and my brother share our grandmas old car, it's a beautiful Renault Megaine from 1998. However we wanted to listen to our own music, but the car only supported radio or cassette. So a new projects was born.
+Me and my brother share our grandmas old car, it's a beautiful Renault Megaine from 1998. However we wanted to listen to our own music, unfortunately the car only supported radio or cassette. So a new projects was conceived.
 
 
 ![](/assets/images/car-aux-wires.jpg)
-I removed the car radio from its socket to inspect the model type. A search on google bought me to the manual, luckily back in the day companies still provide electronic schematics for their products.
+I removed the car radio from its socket to inspect the model type. A search on google bought me to the manual, luckily back in the day companies still provide in-depth electronic schematics for their products.
 
 
 ![](/assets/images/car-aux-diagram.png)
