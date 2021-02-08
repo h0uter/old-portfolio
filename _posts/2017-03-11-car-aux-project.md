@@ -1,5 +1,5 @@
 ---
-title: 'Upgrading the cassette player in my old car with AUX'
+title: 'Upgrading my car radio with AUX'
 categories:
   - projects
 tags:
