@@ -13,7 +13,7 @@ image:
   caption: "test"
 ---
 
-For this project the pointcloud data of a LiDAR was fused with the pointclouds obtained from a stereo camera. The data required a lot of preprocessing for it to be usable. First the egomotion of the moving vehicle had to be compensated. Some other challenges were the non-synchronous arrival of the different sensor modalities, or the removal of the ground plane for which the [RANSAC algorithm](https://en.wikipedia.org/wiki/Random_sample_consensus) was.
+For this project the pointcloud data of a LiDAR was fused with the pointclouds obtained from a stereo camera. The data required a lot of preprocessing for it to be usable. First the egomotion of the moving vehicle had to be compensated. Some other challenges were the non-synchronous arrival of the different sensor modalities, or the removal of the ground plane for which the [RANSAC algorithm](https://en.wikipedia.org/wiki/Random_sample_consensus) was employed.
 
 
 ![demo lidar vs stereo](/assets/images/top_view_lidarvsstereo.png)
