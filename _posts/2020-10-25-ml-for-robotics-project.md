@@ -19,8 +19,8 @@ actions:
   #   url: "https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0"
 ---
 
-The goal of this project was to employ machine learning for the purpose of picking up cutlery with a small robot.
-To this end a machine learning pipeline had to be built from the ground up.
+A small robot gripper had to detect and pickup cutlery. To this end we built a complete ML pipeline .
+
 
 The general ML cookbook looks something like this:
 
