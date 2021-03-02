@@ -2,7 +2,7 @@
 title: "Welcome"
 layout: home
 image: /assets/images/smile-min_wide.jpg
-# entries_layout: grid
+entries_layout: grid
 ---
 
 Hi👋, my name is Wouter.
