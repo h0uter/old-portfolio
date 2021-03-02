@@ -1,5 +1,5 @@
 ---
-title: 'LiDAR sensor data fusion'
+title: '3D Sensor Data Fusion'
 categories:
   - projects
 tags:

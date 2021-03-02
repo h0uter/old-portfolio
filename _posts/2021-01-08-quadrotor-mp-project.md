@@ -1,5 +1,5 @@
 ---
-title: 'Quadrotor motion planning'
+title: 'Quadrotor Motion Planning'
 categories:
   - projects
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Upgrading my car radio with AUX'
+title: 'Upgrading Car Radio with AUX'
 categories:
   - projects
 tags:
