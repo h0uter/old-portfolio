@@ -1,5 +1,5 @@
 ---
-title: 'Reproducing: Meta Learning for Domain Generalisation'
+title: 'Meta Learning for Domain Generalisation'
 excerpt: "Humans are adept at solving tasks under many different conditions. This is partly due to fast adaptation, but also due to a lifetime of encountering new task conditions. This provides the opportunity to develop strategies, which are robust to different task contexts. 
 
 We would like artificial learning agents to do the same because this would make them much more versatile and perform better 'out-the-box'."
