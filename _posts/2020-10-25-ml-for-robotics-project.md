@@ -55,12 +55,3 @@ So we went though the pipeline for the challenge at hand and our results can be 
 
 
 Additionaly, you can execute our code yourself on [Deepnote](https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0)
-
-
-
-
-
-
-<!-- Worked together on this project with Wesley who made a post about our success:
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6737753292039872512" height="1100" width="740" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
