@@ -16,4 +16,4 @@ My academic interests relate to the learning, reasoning and strategizing aspects
 
 <!-- additionally I aspire to apply my robotics skills with realizing seamless smart prosthethic arms during my carreer-->
 
-You can find my most recent projects down here ⬇
+You can find some of my most recent projects down here ⬇

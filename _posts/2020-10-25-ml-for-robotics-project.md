@@ -19,7 +19,7 @@ actions:
   #   url: "https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0"
 ---
 
-A small robot gripper had to detect and pickup cutlery. To this end we built a complete ML pipeline .
+A small robot gripper had to detect and pickup cutlery. To this end we built a complete ML pipeline start to end.
 
 
 The general ML cookbook looks something like this:
@@ -29,7 +29,7 @@ The general ML cookbook looks something like this:
 2. **get the data**
 	- representiveness
 	- need to annotate
-	- use simulation to obtain data (really well suited for reinforcement learning)
+	- use simulation to obtain data (well suited for reinforcement learning)
 3. **Inspect Data, gain insights**
 	- GOAL: develop intuition
 	- find outliers
