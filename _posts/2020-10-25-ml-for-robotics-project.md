@@ -21,7 +21,7 @@ actions:
 
 A small robot gripper has to detect cutlery and determine a suitable grip pose. To this end we built a complete ML pipeline start to end.
 
-
+ok 
 The general ML cookbook looks something like this:
 
 1. **Overview**
