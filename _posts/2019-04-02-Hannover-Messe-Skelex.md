@@ -10,11 +10,7 @@ image:
   caption: "test"
 ---
 
-<!-- 
-![Wouter_explaining_Skelex_360.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/Wouter_explaining_Skelex_360.jpg) -->
-
 I represented Skelex at the largest industrial tech event in Germany, the Hannover Messe with 6.500 exhibitors and 250.000 visitors. Skelex designs and manufactures passive upperbody exoskeletons. I advised our international audience regarding the possibilities of augmenting their workforce with the Skelex 360
-
 
 
 ![0.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/0.jpg)
