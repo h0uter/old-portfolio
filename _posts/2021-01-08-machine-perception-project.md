@@ -3,8 +3,8 @@ title: 'LiDAR sensor data fusion'
 categories:
   - projects
 tags:
-  - sensor fusion
-  # - MSc. Robotics
+  - Sensor Fusion
+  - Uni Project
   - LiDAR
   - Python
 image: 

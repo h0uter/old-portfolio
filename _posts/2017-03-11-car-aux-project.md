@@ -3,7 +3,7 @@ title: 'Upgrading my car radio with AUX'
 categories:
   - projects
 tags:
-  - electronics
+  - Electronics
 image: 
   path: /assets/images/car-aux-pcb.jpg
   thumbnail: /assets/images/car-aux-pcb_thumb.jpg

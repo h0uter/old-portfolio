@@ -3,7 +3,7 @@ title: 'Skelex at the Hannover-Messe'
 categories:
   - projects
 tags:
-  - exo-skeleton
+  - Exo-skeleton
 image: 
   path: /assets/images/2019-04-02-Hannover-Messe-Skelex/Wouter_explaining_Skelex_360.jpg
   thumbnail: /assets/images/2019-04-02-Hannover-Messe-Skelex/Wouter_explaining_Skelex_360.jpg

@@ -6,8 +6,9 @@ We would like artificial learning agents to do the same because this would make 
 categories:
   - projects
 tags:
-  - machine learning
-  - deep learning
+  - Machine Learning
+  - Deep Learning
+  - Uni Project
 image: 
   path: /assets/images/MLDG_wide.jpg
   thumbnail: /assets/images/MLDG.png
