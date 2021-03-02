@@ -3,21 +3,21 @@ title: 'Controller Design for Double Pendulum'
 categories:
   - projects
 tags:
-  - exo-skeleton
-image: 
-  path: /assets/images/2020-03-12-CSD-double-pendulum/
-  thumbnail: /assets/images/2020-03-12-CSD-double-pendulum
-  caption: "test"
+  - control engineering
+# image:
+#   path: /assets/images/2020-03-12-CSD-double-pendulum/
+#   thumbnail: /assets/images/2020-03-12-CSD-double-pendulum
+#   caption: "test"
 actions:
   - label: "Github"
     icon: github  # references name of svg icon, see full list below
     url: "https://github.com/h0uter/control-system-design-double-pendulum"
 ---
 
-
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/qcokfeDFilA?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/qcokfeDFilA?controls=1&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
+
 (credits: not my video, but same setup)
 
 A double pendulum is studied, where only the first link can be actuated using a motor. Firstly, the system will be modeled using a white-box approach. After determining the equations of motion and state-space equations, the parameters of the system are estimated using an error-function and least-squares fit on generated data. To stabilize the double pendulum in the unstable equilibrium where both links point upwards, the system is linearized around this point. After linearizing and designing an observer, two controllers are designed to stabilize the system around this point. Since the physical setups are not available due to the Corona virus, all results were analyzed in Simulink.
@@ -26,4 +26,4 @@ A double pendulum is studied, where only the first link can be actuated using a 
 
 <!-- (credits: not my video, but same setup) -->
 
-https://github.com/h0uter/control-system-design-double-pendulum
+<!-- https://github.com/h0uter/control-system-design-double-pendulum -->
