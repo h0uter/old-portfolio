@@ -3,7 +3,7 @@ title: 'WIP: Data Efficient Reinforcement Learning'
 categories:
   - projects
 tags:
-  - Reinforcemnt Learning
+  - Reinforcement Learning
   - AI gym
   - Python
   - Gaussian Processes

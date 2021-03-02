@@ -6,18 +6,17 @@ tags:
   - Machine Learning
 	- Uni Project
   - Python
-image: 
+image:
   path: /assets/images/ml_knife_wide.jpg
   thumbnail: /assets/images/ml_knife.png
-  caption: "test"
+  caption: "wtf"
 actions:
   - label: "Published Notebook"
-		icon: arrow-right  # references name of svg icon, see full list below
+    icon: arrow-right  # references name of svg icon, see full list below
     url: "https://deepnote.com/publish/452790e4-76c0-49f0-8fb0-80760653c8f0"
 ---
 
 A small robot gripper has to detect cutlery and determine a suitable grip pose. To this end we built a complete ML pipeline start to end.
-
 
 The general ML cookbook looks something like this:
 
