@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 'Machine Learning for Robot Gripper'
 categories:
   - projects
@@ -54,4 +54,4 @@ The general ML cookbook looks something like this:
 So we went though the pipeline for the challenge at hand and our results can be seen in the published notebook.
 
 
-Additionaly, you can execute our code yourself on [Deepnote](https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0) -->
+Additionaly, you can execute our code yourself on [Deepnote](https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0)
