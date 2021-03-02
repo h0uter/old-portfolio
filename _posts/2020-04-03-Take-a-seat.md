@@ -1,5 +1,5 @@
 ---
-title: 'Controller Design for Double Pendulum'
+title: 'Take a Seat'
 categories:
   - projects
 tags:
@@ -10,7 +10,7 @@ image:
   thumbnail: /assets/images/2020-04-03-Take-a-seat/take-a-seat.png
   caption: "test"
 actions:
-  - label: "Visit project website"
+  - label: "Visit Take a Seat website"
     icon: arrow-right  # references name of svg icon, see full list below
     url: "https://takeaseat.luppessoftware.nl/"
 ---
@@ -26,3 +26,4 @@ Besides this, we have noticed that the highest demand in coworking spaces is not
 We provide a platform with which companies can rent out their surplus office space to startups requiring a place to work, but lacking the budget to rent or buy their own office. This opens up mutually beneficial collaboration opportunities for both involved parties. 
 
 Eventually this will develop into a platform on which everyone with our app can rent out available working space, either via a coworking concept or as a fixed workplace. Additionally, the platform would serve as matchmaker between both established companies and startups in their search to maximize office space utilization.
+

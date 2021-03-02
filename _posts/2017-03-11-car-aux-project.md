@@ -22,7 +22,7 @@ Me and my brother share our grandmas old car, it's a beautiful Renault Mégane 2
 I removed the car radio from its socket to inspect the model type. A search on google bought me to the manual, luckily back in the day companies still provide in-depth electronic schematics for their products.
 
 
-![](/assets/images/car-aux-diagram.png)
+![](/assets/images/car-aux-diagram-min.png)
 Inspecting the schematics allowed be to identify the cassette amplifier.
 
 
