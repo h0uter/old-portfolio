@@ -2,7 +2,6 @@
 title: 'Skelex at the Hannover-Messe'
 categories:
   - projects
-  - work experience
 tags:
   - exo-skeleton
 image: 
