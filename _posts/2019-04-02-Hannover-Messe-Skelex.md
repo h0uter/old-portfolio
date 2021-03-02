@@ -1,13 +1,17 @@
 ---
 title: 'Skelex at the Hannover-Messe'
 categories:
-  - projects
+  # - projects
 tags:
   - Exo-skeleton
 image: 
   path: /assets/images/2019-04-02-Hannover-Messe-Skelex/Wouter_explaining_Skelex_360.jpg
   thumbnail: /assets/images/2019-04-02-Hannover-Messe-Skelex/Wouter_explaining_Skelex_360.jpg
   caption: "test"
+actions:
+  - label: "Visit Skelex"
+    icon: arrow-right  # references name of svg icon, see full list below
+    url: "https://www.skelex.com/"
 ---
 
 I represented Skelex at the largest industrial tech event in Germany, the Hannover Messe with 6.500 exhibitors and 250.000 visitors. Skelex designs and manufactures passive upperbody exoskeletons. I advised our international audience regarding the possibilities of augmenting their workforce with the Skelex 360
