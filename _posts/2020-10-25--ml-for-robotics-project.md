@@ -4,7 +4,7 @@ categories:
   - projects
 tags:
   - Machine Learning
-	- Uni Project
+  - Uni Project
   - Python
 image:
   path: /assets/images/ml_knife_wide.jpg
