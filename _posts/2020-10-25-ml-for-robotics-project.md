@@ -1,5 +1,5 @@
 ---
-title: 'Machine learning for robot gripper'
+title: 'Machine Learning for Robot Gripper'
 categories:
   - projects
 tags:
@@ -12,16 +12,13 @@ image:
   caption: "test"
 actions:
   - label: "Published Notebook"
-    icon: arrow-right  # references name of svg icon, see full list below
+		icon: arrow-right  # references name of svg icon, see full list below
     url: "https://deepnote.com/publish/452790e4-76c0-49f0-8fb0-80760653c8f0"
-  # - label: "execute the code"
-  #   icon: arrow-right  # references name of svg icon, see full list below
-  #   url: "https://deepnote.com/project/452790e4-76c0-49f0-8fb0-80760653c8f0"
 ---
 
 A small robot gripper has to detect cutlery and determine a suitable grip pose. To this end we built a complete ML pipeline start to end.
 
-ok 
+
 The general ML cookbook looks something like this:
 
 1. **Overview**
