@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 layout: home
-image: /assets/images/smile-min_wide.jpg
+image: /assets/images/header.jpg
 entries_layout: grid
 ---
 
