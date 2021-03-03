@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 layout: home
-image: /assets/images/header.jpg
+image: /assets/images/header_rob.jpg
 entries_layout: grid
 ---
 
