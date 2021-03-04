@@ -1,6 +1,7 @@
 ---
 title: CV
 layout: cv
+image: /assets/images/smile-min_wide.jpg
 actions:
   - label: "Download as PDF"
     icon: pdf
