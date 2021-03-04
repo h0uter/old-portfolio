@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 lang: en-US
 title: Wouter Meijer
 email: w.j.meijer@student.tudelft.nl
@@ -35,6 +36,9 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
+
+# Google services
+google_analytics: G-MKPG1XMS31
 
 # Build settings
 markdown: kramdown
