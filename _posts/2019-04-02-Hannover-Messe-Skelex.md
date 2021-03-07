@@ -28,6 +28,6 @@ I was eager to see the products of the other players in the exoskeleton world in
 <!-- 
 ![german_bionx.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/german_bionx.jpg) -->
 
-![noonee.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/noonee.jpg)
+![noonee.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/noonee-min.jpg)
 
 ![paexo.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/paexo.jpg)
