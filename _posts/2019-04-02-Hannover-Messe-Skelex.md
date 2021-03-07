@@ -17,7 +17,7 @@ actions:
 I represented the scale-up Skelex at the largest industrial tech event in Germany, the Hannover Messe with 6.500 exhibitors and 250.000 visitors. Skelex designs and manufactures passive upperbody exoskeletons. I advised our international audience regarding the possibilities of augmenting their workforce with the Skelex 360.
 
 
-![0.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/0.jpg)
+<!-- ![0.jpg](/assets/images/2019-04-02-Hannover-Messe-Skelex/0.jpg) -->
 
 I gained a lot of insight though hearing the perspectives of various operations managers for what they thought were reasonable investments in their workforce. 
 Obviously there are stark contrasts from country to country with regards to how they value their workforce.
