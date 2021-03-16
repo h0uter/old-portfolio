@@ -10,7 +10,6 @@ description: Data Efficient Reinforcement Learning
 #   - Gaussian Processes
 img: /assets/2021-03-17-Data-Efficient-Reinforcement-Learning-Project/PILCO-linux.jpg
 importance: 1
-
 ---
  
 Currently working on reproducting the PILCO algorithm for reinforcement learning and making a robustness analysis.
